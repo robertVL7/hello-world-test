@@ -7,7 +7,7 @@ and open the template in the editor.
 <html lang="en">
     <head>
         <meta charset="UTF-8">
-        <title>Test Github</title>
+        <title>Github</title>
     </head>
     <body>
         <?php
