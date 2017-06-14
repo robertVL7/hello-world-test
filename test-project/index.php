@@ -14,9 +14,7 @@ and open the template in the editor.
         echo 'test';
         echo 'test';
         echo 'test';
-        echo 'test';
-        echo 'test';
-        echo 'test';
+        echo 'test';        
         ?>
     </body>
 </html>
