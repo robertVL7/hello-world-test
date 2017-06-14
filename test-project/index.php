@@ -10,11 +10,8 @@ and open the template in the editor.
         <title>Test Github</title>
     </head>
     <body>
-        <?php
+        <?php        
         echo 'test';
-        echo 'test';
-        echo 'test';
-        echo 'test';        
         ?>
     </body>
 </html>
